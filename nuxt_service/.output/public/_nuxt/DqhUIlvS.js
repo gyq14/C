@@ -1,0 +1,1 @@
+import{_ as n}from"./Ck2h-eGH.js";import{d as a,k as s,j as r,o as p,b as _,f as c,l as m}from"./BKjTAV26.js";import"./DpdxWg4J.js";const u={key:0},x=a({__name:"[id]",setup(d){const e=s(),t=`/admin/${e.params.type}`;return(i,f)=>{const o=n;return r(e).params.id?(p(),_("div",u,[c(o,{routetype:t})])):m("",!0)}}});export{x as default};

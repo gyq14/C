@@ -1,0 +1,1 @@
+import{_ as t}from"./BScaCq0g.js";import{d as n,j as s,u as a,o as r,b as _,f as c,k as m}from"./A2Vocqfh.js";import"./Bd-TCTuH.js";const d={key:0},x=n({__name:"[id]",setup(p){const e=s();return(u,i)=>{const o=t;return a(e).params.id?(r(),_("div",d,[c(o,{routetype:"/admin/MessageCenter/Todos"})])):m("",!0)}}});export{x as default};
